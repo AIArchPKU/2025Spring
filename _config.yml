@@ -1,0 +1,52 @@
+# Site settings
+course_name: "Hardware Architecture for Intelligent Computing Systems"
+course_description: "This course briefly introduces computer architecture and novel hardware-software co-designed hardware architecture"
+course_semester: "Fall 2024"
+
+baseurl: "/2024Fall/" # the subpath of your site, e.g. /blog/
+url: "http://AIArchPKU.github.io/" # the base hostname & protocol for your site
+
+schoolname: "Peking University"
+schoolurl: "https://pku.edu.cn"
+
+address: |
+    School of Yuanpei
+    Peking Univ.
+    Beijing
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+    finals:
+        output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"
