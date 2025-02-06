@@ -27,3 +27,6 @@ items:
   name: Materials
   icon_class: fas fa-book
 
+- url: /previous/
+  name: Previous
+  icon_class: fas fa-file-alt
