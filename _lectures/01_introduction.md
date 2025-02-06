@@ -12,3 +12,5 @@ links:
     # - url: /static_files/presentations/Lecture1/Lecture1_Supp.pdf
     #   name: supplementary slides
 ---
+**Suggested Readings:**
+- [Online Verilog Exercise](http://hdlbits.com)
