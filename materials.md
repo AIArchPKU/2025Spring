@@ -9,8 +9,13 @@ permalink: /materials/
 
 ## Book
 
+物理器件 逻辑电路方面：
+* [Digital Integrated Circuits: A Design Perspective Anantha Chandrakasan]()
+* [CMOS 数字集成电路：分析与设计 康松默]()
+智能计算架构方面：
 * [Computer Architecture: A Quantitative Approach - John L. Hennessy, David A. Patterson](https://acs.pub.ro/~cpop/SMPA/Computer%20Architecture%20A%20Quantitative%20Approach%20(5th%20edition).pdf)
 * [智能计算系统: 陈云霁，李玲，李威，郭崎，杜子东](https://book.douban.com/subject/34988786/)
+* [人工智能芯片设计 尹首一]()
 
 ## Additional Course Materials
 
