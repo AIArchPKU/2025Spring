@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-You can find all the material needed in the course in this website.
+你可以通过此课程网站获取所有你需要的课程资料
 
 **Course Time**: Monday 13:00 - 14:50
 
