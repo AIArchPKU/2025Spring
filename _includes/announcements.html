@@ -19,10 +19,10 @@
     <li class="no-p-margin">
         {% if n.type %}
             {% if n.type == 'lecture' %}
-                New Lecture is up: {{ n.title }}
+                新的课件已经上传: {{ n.title }}
                 {% include lecture_links.html lecture=n %}
             {% elsif n.type == 'assignment' %}
-                New Assignment released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
+                新的作业已经发布: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
             {% else%}
                 {{ n.description }}
             {% endif %}
