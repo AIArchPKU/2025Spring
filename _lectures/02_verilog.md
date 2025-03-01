@@ -1,5 +1,5 @@
 ---
-type: verilog basic
+type: lecture
 date: 2025-02-28T19:00:00+1:00
 title: verilog硬件语言基础
 tldr: "介绍Verilog基础语法，以此为基础去完成后续的代码设计"
