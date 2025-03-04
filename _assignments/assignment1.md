@@ -8,7 +8,7 @@ pdf: /static_files/Assignments/Assignment1/Assignment1.pdf
 hide_from_announcments: true
 due_event: 
     type: due
-    date: 2025-03-17T23:59:59
+    date: 2025-03-18T23:59:59
     description: 'Assignment 1 due'
 ---
 本次作业旨在考查对于第二、三讲电路基础的学习，如有不明白的题目可以随时在群里或找老师助教私聊提问
