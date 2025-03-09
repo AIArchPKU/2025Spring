@@ -12,3 +12,4 @@ links:
 
 **Suggested Readings:**
 - [verilog代码编译与使用verdi检查波形的教程](https://blog.csdn.net/JasonFuyz/article/details/107508893)
+- [verilog语法基础](https://wenku.csdn.net/column/2e7xi0fken)
