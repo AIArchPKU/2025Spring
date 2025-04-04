@@ -3,6 +3,7 @@ type: assignment
 date: 2025-03-04T20:00:00
 title: 'Assignment 1'
 pdf: /static_files/Assignments/Assignment1/Assignment1.pdf
+solutions: /static_files/Assignments/Assignment1/Solution1.pdf
 # attachment: /static_files/assignments/asg.zip
 
 hide_from_announcments: true
