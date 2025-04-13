@@ -3,6 +3,7 @@ type: assignment
 date: 2025-03-20T20:00:00
 title: 'Assignment 2'
 pdf: /static_files/Assignments/Assignment2/作业2_final.pdf
+solutions: /static_files/Assignments/Assignment2/Solution2.pdf
 # attachment: /static_files/assignments/asg.zip
 
 hide_from_announcments: true
