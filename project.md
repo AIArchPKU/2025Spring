@@ -29,3 +29,17 @@ permalink: /project/
 **Due: 2025-04-10 23:59:59**
 
 请在截止日期前，将代码及不超过3页的实验报告提交到教学网。（如果你完成了Bonus部分，你需要附上你编写的Testbench及波形截图）
+
+
+# Lab 2
+在本次实验中，你将完成一个 5 Stage 的 MIPS 流水线 CPU；
+
+实验具体要求可见[Lab 2 Handout](static_files/Lab/Lab2/lab2_handout.html)。
+
+参考资料:
+ - [MIPS Instruction Formats](static_files/Lab/Lab2/Instruction_Formats.pdf)
+ - [MIPS Instruction Descriptions](static_files/Lab/Lab2/Instruction_Descriptions_Short.pdf) ([Detailed version](static_files/Lab/Lab2/Instruction_Descriptions_Long.pdf))
+
+**Due: 2025-06-15 23:59:59**
+
+请在截止日期前，将代码及不超过2页的实验报告(具体要求见Lab 2 Handout文件)提交到教学网。
