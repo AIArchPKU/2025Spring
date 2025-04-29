@@ -18,6 +18,7 @@ permalink: /finals/
     * [fused-layer CNN accelerators](https://ieeexplore.ieee.org/document/7783725/)
     * [eyeriess](https://dl.acm.org/doi/10.1145/3007787.3001177)
     * [Google TPU](https://research.google/pubs/in-datacenter-performance-analysis-of-a-tensor-processing-unit/)
+    
     Large Language Models related:
     * [Attention Acceleration](https://arxiv.org/abs/2307.08691)
     * [CPU and GPU's Collaborative Acceleration](https://arxiv.org/abs/2312.12456)
