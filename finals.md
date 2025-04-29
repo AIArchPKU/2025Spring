@@ -18,6 +18,10 @@ permalink: /finals/
     * [fused-layer CNN accelerators](https://ieeexplore.ieee.org/document/7783725/)
     * [eyeriess](https://dl.acm.org/doi/10.1145/3007787.3001177)
     * [Google TPU](https://research.google/pubs/in-datacenter-performance-analysis-of-a-tensor-processing-unit/)
+    Large Language Models related:
+    * [Attention Acceleration](https://arxiv.org/abs/2307.08691)
+    * [CPU and GPU's Collaborative Acceleration](https://arxiv.org/abs/2312.12456)
+    * [SSM Acceleration on FPGA](https://arxiv.org/abs/2502.15260#:~:text=In%20this%20paper%2C%20we%20propose%20LightMamba%20that%20co-designs,and%20FPGA%20accelerator%20architecture%20for%20efficient%20Mamba%20inference.)
 
 - **GPGPU**:
 
