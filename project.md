@@ -43,3 +43,10 @@ permalink: /project/
 **Due: 2025-06-15 23:59:59**
 
 请在截止日期前，将代码及不超过2页的实验报告(具体要求见Lab 2 Handout文件)提交到教学网。
+
+# Lab 2 bonus
+在本实验中，你将完成一个AI卷积加速器的设计；
+
+实验具体要求见[Lab 2 bonus Handout](static_files/Lab/Lab2/Lab2_bonus.pdf)
+
+**Due: 2025-06-15 23:59:59**
