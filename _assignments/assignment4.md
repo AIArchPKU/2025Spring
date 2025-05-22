@@ -3,6 +3,7 @@ type: assignment
 date: 2025-04-28T00:00:00
 title: 'Assignment 4'
 pdf: /static_files/Assignments/Assignment4/作业4_raw.pdf
+solutions: /static_files/Assignments/Assignment4/Solution4.pdf
 # attachment: /static_files/assignments/asg.zip
 
 hide_from_announcments: true
